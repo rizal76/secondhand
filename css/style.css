@@ -1,0 +1,17 @@
+@media(max-width: 480px) {
+  h1 {
+    font-size: 12pt;
+  }
+}
+.contact{
+	width: 20px;
+	height: 20px;
+}
+.kategori{
+	width: 100px;
+	height: 100px;
+}
+.kategori:hover{
+	background: rgb(0,255,255);
+	border-radius: 20px;
+}
